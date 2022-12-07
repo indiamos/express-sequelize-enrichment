@@ -32,7 +32,7 @@
   "homepage": "https://github.com/indiamos/express-sequelize-enrichment#readme",
   "dependencies": {
     "body-parser": "^1.18.2",
-    "express": "^4.16.1",
+    "express": "^4.17.3",
     "pg": "^7.3.0",
     "pg-hstore": "^2.3.2",
     "react": "^16.0.0",
